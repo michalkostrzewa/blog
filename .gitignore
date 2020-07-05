@@ -1,1 +1,8 @@
 my_env
+/.vscode/
+db.sqlite3
+mysite/__pycache__/
+__pycache__/
+__init__.py
+blog/__init__.py
+migrations/
